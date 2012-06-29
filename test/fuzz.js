@@ -16,7 +16,6 @@ vows.describe('fuzz').addBatch({
         fuzz.connect(this.callback);
       },
       'returns amqp object when ready event fired': function(err, amqp){
-        console.log(arguments);
         assert.isNull(err);
         assert.isObject(amqp);
       }
