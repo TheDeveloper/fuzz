@@ -9,4 +9,4 @@ Wraps a [node-amqp](https://github.com/postwait/node-amqp) connection object and
 
 Documentation site at http://thedeveloper.github.com/fuzz/
 
-Source documentation available at http://thedeveloper.github.com/fuzz/docs/README.md.html
+Source documentation available at http://thedeveloper.github.com/fuzz/doc/README.md.html
