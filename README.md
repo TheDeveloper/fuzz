@@ -7,6 +7,6 @@ Wraps a [node-amqp](https://github.com/postwait/node-amqp) connection object and
 #### Properties
     fuzz.connected; // Boolean value tracking the status of the RabbitMQ connection
 
-Documentation site at https://thedeveloper.github.com/fuzz
+Documentation site at https://thedeveloper.github.com/fuzz/
 
-Source documentation available at https://thedeveloper.github.com/fuzz/docs/
+Source documentation available at https://thedeveloper.github.com/fuzz/docs/README.md.html
