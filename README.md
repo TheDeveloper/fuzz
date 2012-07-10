@@ -7,10 +7,10 @@ Wraps a [node-amqp](https://github.com/postwait/node-amqp) connection object and
 #### Usage
 	var config = {
       rabbitMQ: {
-	    host: '',
-	    port: '',
-	    login: '',
-	    password: '',
+	    host: 'localhost',
+	    port: 5672,
+	    login: 'guest',
+	    password: 'guest',
 	    vhost: '/'
 	  }
 	};
