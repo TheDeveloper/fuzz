@@ -14,6 +14,9 @@ Documentation site at http://thedeveloper.github.com/fuzz/
 
 Source documentation available at http://thedeveloper.github.com/fuzz/doc/README.md.html
 
+#### Why fuzz?
+Rabbits are fuzzy.
+
 #### License
 
 (The MIT license)
