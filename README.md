@@ -1,6 +1,9 @@
 ### Fuzz
 Wraps a [node-amqp](https://github.com/postwait/node-amqp) connection object and exposes some useful helpers and properties.
 
+#### Installation
+    npm install fuzz
+
 #### Helpers
     fuzz.connect([conf], callback); // Connect to RabbitMQ and execute callback when ready event fired
 
