@@ -3,7 +3,7 @@
   "name": "fuzz",
   "description": "RabbitMQ controller",
   "homepage": "http://www.geoffwagstaff.com/fuzz/",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "http://github.com/thedeveloper/fuzz"

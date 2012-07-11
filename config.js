@@ -4,7 +4,7 @@ var debug = require('debug')('fuzz:config');
 try{
   var config = require('config');
   debug('Loading config from node-config');
-  module.exports = config.setModuleDefaults('abacus', require('./config/default'));
+  module.exports = config.setModuleDefaults('fuzz', require('./config/default'));
 }
 catch(e){
   debug('Setting config to empty object');
